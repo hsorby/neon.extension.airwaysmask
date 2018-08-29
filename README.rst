@@ -1,2 +1,4 @@
-# neon.extension.airwaysmask
+Airways Mask
+============
+
 An extension for Neon that loads masks for Airway models.
